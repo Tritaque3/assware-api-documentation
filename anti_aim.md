@@ -11,3 +11,14 @@
 ```lua
 antiaim.set_yaw(30)
 ```
+## set_pitch
+
+### Parameters:
+
+| Name | Type | Description |
+| :--- | :--- | :--- |
+| value | float | A new value for pitch |
+
+```lua
+antiaim.set_pitch(89)
+```
