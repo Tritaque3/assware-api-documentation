@@ -1,5 +1,14 @@
 # AntiAim
 
+##OverrideInverter
+
+##Parameters:
+
+| Name |	Type	| Description |
+| :--- | :--- | :--- |
+
+| value	bool	| A new value for inverter |
+
 ## set_yaw
 
 ### Parameters:
